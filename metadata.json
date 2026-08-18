@@ -1,0 +1,6 @@
+{
+  "name": "Linterna",
+  "description": "Aplicación minimalista de linterna con diseño liquid glass y animaciones fluidas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
